@@ -16,6 +16,8 @@ Project{
             "src/debugger.h",
             "src/grid.cpp",
             "src/grid.h",
+            "src/piece.cpp",
+            "src/piece.h",
             "src/tile.cpp",
             "src/tile.h",
             'src/main.cpp',
